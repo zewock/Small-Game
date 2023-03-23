@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaidR7MFSBiqzzjHniEFOJasS+fDeNXadOjDlJViM8tV0YKlJej/W3yyXH/BqRKXL9tK0YocnJwu7S4DKtD0kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\workspace\\zachary-mccay-student-code\\module-1\\Small game\\Small game\\Small game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
